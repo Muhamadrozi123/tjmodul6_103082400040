@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\SEMESTER 4\\KPL\\tjmodul6_103082400040\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{15A0EF3F-0E9C-4A87-9104-0A38488CC052}|tjmodul6_103082400040.csproj|c:\\semester 4\\kpl\\tjmodul6_103082400040\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{15A0EF3F-0E9C-4A87-9104-0A38488CC052}|tjmodul6_103082400040.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{15A0EF3F-0E9C-4A87-9104-0A38488CC052}|tjmodul6_103082400040.csproj|c:\\semester 4\\kpl\\tjmodul6_103082400040\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15A0EF3F-0E9C-4A87-9104-0A38488CC052}|tjmodul6_103082400040.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\SEMESTER 4\\KPL\\tjmodul6_103082400040\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\SEMESTER 4\\KPL\\tjmodul6_103082400040\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-02T12:04:34.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\SEMESTER 4\\KPL\\tjmodul6_103082400040\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

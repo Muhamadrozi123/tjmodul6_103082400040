@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\SEMESTER 4\\KPL\\tjmodul6_103082400040\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15A0EF3F-0E9C-4A87-9104-0A38488CC052}|tjmodul6_103082400040.csproj|c:\\semester 4\\kpl\\tjmodul6_103082400040\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{15A0EF3F-0E9C-4A87-9104-0A38488CC052}|tjmodul6_103082400040.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{D4F2C5C6-B4DF-3217-DFCD-7E739EA6AD3E}|tjmodul6_103082400040.csproj|c:\\semester 4\\kpl\\tjmodul6_103082400040\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F2C5C6-B4DF-3217-DFCD-7E739EA6AD3E}|tjmodul6_103082400040.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A0EF3F-0E9C-4A87-9104-0A38488CC052}|tjmodul6_103082400040.csproj|c:\\semester 4\\kpl\\tjmodul6_103082400040\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A0EF3F-0E9C-4A87-9104-0A38488CC052}|tjmodul6_103082400040.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4F2C5C6-B4DF-3217-DFCD-7E739EA6AD3E}|tjmodul6_103082400040.csproj|c:\\semester 4\\kpl\\tjmodul6_103082400040\\class sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F2C5C6-B4DF-3217-DFCD-7E739EA6AD3E}|tjmodul6_103082400040.csproj|solutionrelative:class sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F2C5C6-B4DF-3217-DFCD-7E739EA6AD3E}|tjmodul6_103082400040.csproj|c:\\semester 4\\kpl\\tjmodul6_103082400040\\class sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F2C5C6-B4DF-3217-DFCD-7E739EA6AD3E}|tjmodul6_103082400040.csproj|solutionrelative:class sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F2C5C6-B4DF-3217-DFCD-7E739EA6AD3E}|tjmodul6_103082400040.csproj|c:\\semester 4\\kpl\\tjmodul6_103082400040\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D4F2C5C6-B4DF-3217-DFCD-7E739EA6AD3E}|tjmodul6_103082400040.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Class SayaTubeUser.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\KPL\\tjmodul6_103082400040\\Class SayaTubeUser.cs",
+              "RelativeDocumentMoniker": "Class SayaTubeUser.cs",
+              "ToolTip": "C:\\SEMESTER 4\\KPL\\tjmodul6_103082400040\\Class SayaTubeUser.cs",
+              "RelativeToolTip": "Class SayaTubeUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:14:12.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class SayaTubeVideo.cs",
+              "DocumentMoniker": "C:\\SEMESTER 4\\KPL\\tjmodul6_103082400040\\Class SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "Class SayaTubeVideo.cs",
+              "ToolTip": "C:\\SEMESTER 4\\KPL\\tjmodul6_103082400040\\Class SayaTubeVideo.cs",
+              "RelativeToolTip": "Class SayaTubeVideo.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:12:38.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\SEMESTER 4\\KPL\\tjmodul6_103082400040\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -35,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\SEMESTER 4\\KPL\\tjmodul6_103082400040\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\SEMESTER 4\\KPL\\tjmodul6_103082400040\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAiwHEAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-02T12:02:56.261Z",
               "EditorCaption": ""
